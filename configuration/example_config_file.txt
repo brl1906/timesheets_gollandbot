@@ -1,0 +1,7 @@
+[Email]
+email_address = ADD.YOUR.EMAIL.ADDRESS
+password = ADD.YOUR.PASSWORD
+
+[Email_List]
+test_list = {'Joe Blow': 'joe.blow@email.com', 'Malik Yoba': 'maliyo@email.com',
+'Marietta Yolis': 'mariyo@email.com', 'Olatunde Adedeje': 'aladej@email.com'}
