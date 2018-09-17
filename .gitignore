@@ -6,3 +6,5 @@
 *.log
 *.ini
 *.ipynb
+venv
+golland_venv_requirements.txt
