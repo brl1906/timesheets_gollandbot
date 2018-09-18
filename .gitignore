@@ -8,3 +8,4 @@
 *.ipynb
 venv
 golland_venv_requirements.txt
+golland_virtualenv
