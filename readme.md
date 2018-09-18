@@ -17,7 +17,7 @@ This improves the manual reminders for timesheet completion and replaces the wei
 
 4. Move into that new directory:```cd GOLLANDPROJECT```
 
-5. Clone the project by copying and using the url string produced when you hit the green button ![clone](https://github.com/brl1906/timesheets_gollandbot/blob/master/images/clone_button.png = 100*20) and pasting it after the command ```git clone THEURLSTRINGFORTHEREPOSITORY```
+5. Clone the project by copying and using the url string produced when you hit the green button ![clone|512x397,20%](https://github.com/brl1906/timesheets_gollandbot/blob/master/images/clone_button.png) and pasting it after the command ```git clone THEURLSTRINGFORTHEREPOSITORY```
 
 5. From within this directory create a virtual environment for your project using virtualenv. For example: ```virtualenv GOLLAND_VIRTUAL_ENVIRONMENT```
 
