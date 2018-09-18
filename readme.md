@@ -38,3 +38,4 @@ This program was designed to be deployed via PythonAnywhere to enable remote hos
 * [ ] add log drop some print statements
 * [ ] add function for cleaning images directory
 * [ ] update .gitignore for logs
+* [ ] add to docs 
