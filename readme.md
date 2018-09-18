@@ -11,9 +11,15 @@ This improves the manual reminders for timesheet completion and replaces the wei
 ## Getting Started
 1. Make sure your machine has Python installed.
 2. Ensure you have [pip](https://pypi.org/project/pip/), a package manager for Python modules.  
-2. Install virtualenv -- it is a tool for creating isolated Python environments and is really handy when you have multiple projects in various stages on your machine.  You can install it from the terminal with ```pip install virtualenv```
-3. Create a folder for the project with file finder or the terminal: ```mkdir GOLLANDPROJECT```
-4. Move into that new directory: ```cd GOLLANDPROJECT```
+2. Install virtualenv -- it is a tool for creating isolated Python environments and is really handy when you have multiple projects in various stages on your machine.  You can install it from the terminal with
+ ```pip install virtualenv```
+
+3. Create a folder for the project with file finder or the terminal:
+```mkdir GOLLANDPROJECT```
+
+4. Move into that new directory:
+```cd GOLLANDPROJECT```
+
 5. From within this directory create a virtual environment for your project using virtualenv. For example: ```virtualenv GOLLAND_VIRTUAL_ENVIRONMENT```
 6. Activate this virtual environment with the following command so that you can install the required packages this program needs and contain them to this environment. Run: ```source GOLLAND_VIRTUAL_ENVIRONMENT/bin/activate```
 7. Install the required packages into the virtual environment via the terminal using the command: ```pip install -r requirements.txt```
