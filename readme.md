@@ -34,6 +34,8 @@ This improves the manual reminders for timesheet completion and replaces the wei
 This program was designed to be deployed via PythonAnywhere to enable remote hosting and running through the scheduling of timed jobs on a remote server.  You have the option of running the program manually on your machine through the terminal or deploying on [PythonAnywhere](https://help.pythonanywhere.com/pages/).  
 
 If you use PythonAnywhere you can test by setting an hourly task to run your program--there is a repo clone and bash script creation step in between.  You know it works if output of an hourly run at 1 minute after the hour works if you get something like this:
+
+
 <img src='https://github.com/brl1906/timesheets_gollandbot/blob/master/images/hourly_emails_test.png' height=500> 
 
 ## TODO:
