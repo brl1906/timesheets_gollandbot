@@ -9,3 +9,6 @@
 venv
 golland_venv_requirements.txt
 golland_virtualenv
+
+# for PythonAnywhere deployment
+run_gollandbot
