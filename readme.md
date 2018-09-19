@@ -35,7 +35,8 @@ This program was designed to be deployed via PythonAnywhere to enable remote hos
 
 
 ## TODO:
+* [ ] add biweekly timesheet submission day test function for running biweekly with PythonAnywhere
 * [ ] add log drop some print statements
 * [ ] add function for cleaning images directory
 * [ ] update .gitignore for logs
-* [ ] add to docs 
+* [ ] add to docs
