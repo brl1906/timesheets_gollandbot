@@ -10,5 +10,10 @@ venv
 golland_venv_requirements.txt
 golland_virtualenv
 
+# images for presentation notebook
+cartoon_magic.png
+decision_tree.png
+script_kiddie.png
+
 # for PythonAnywhere deployment
 run_gollandbot
