@@ -37,10 +37,3 @@ If you use PythonAnywhere you can test by setting an hourly task to run your pro
 
 
 <img src='https://github.com/brl1906/timesheets_gollandbot/blob/master/images/hourly_emails_test.png' height=500> <img src='https://github.com/brl1906/timesheets_gollandbot/blob/master/images/gmail_hourly.png' height=500, width=465>
-
-## TODO:
-* [ ] add biweekly timesheet submission day test function for running biweekly with PythonAnywhere
-* [ ] add log drop some print statements
-* [ ] add function for cleaning images directory
-* [ ] update .gitignore for logs
-* [ ] add to docs
